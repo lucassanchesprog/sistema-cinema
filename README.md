@@ -1,5 +1,3 @@
-# sistema-cinema
-Projeto em Python simulando compra de ingresso de cinema. 
 # Sistema de Cinema (Python)
 
 Projeto de simulação de compra de ingressos em um cinema.
